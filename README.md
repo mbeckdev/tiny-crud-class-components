@@ -2,6 +2,8 @@
 
 A tiny CRUD task list - code to help remember state and props with class components in React
 
+[See it live here](https://mbeckdev.github.io/tiny-crud-class-components/)
+
 ## Why
 - meant to help jog my memory if I ever need to remember the syntax of a React project using class components
 - CRUD means an app that has these capabilities: Create, Read, Update, and Delete
