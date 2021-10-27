@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tiny-crud-class-components/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/tiny-crud-class-components/static/js/main.8813b043.chunk.js",
+    "main.js.map": "/tiny-crud-class-components/static/js/main.8813b043.chunk.js.map",
+    "runtime-main.js": "/tiny-crud-class-components/static/js/runtime-main.e53ef219.js",
+    "runtime-main.js.map": "/tiny-crud-class-components/static/js/runtime-main.e53ef219.js.map",
+    "static/js/2.5c275d95.chunk.js": "/tiny-crud-class-components/static/js/2.5c275d95.chunk.js",
+    "static/js/2.5c275d95.chunk.js.map": "/tiny-crud-class-components/static/js/2.5c275d95.chunk.js.map",
+    "index.html": "/tiny-crud-class-components/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/tiny-crud-class-components/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5c275d95.chunk.js.LICENSE.txt": "/tiny-crud-class-components/static/js/2.5c275d95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e53ef219.js",
+    "static/js/2.5c275d95.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8813b043.chunk.js"
+  ]
+}
